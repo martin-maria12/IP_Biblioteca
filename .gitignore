@@ -1,0 +1,14 @@
+# Ignore all cache files
+*.cache
+
+# Ignore all .txt files
+*.txt
+
+# Ignore other common unnecessary files
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
